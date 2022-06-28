@@ -10,10 +10,10 @@
 [![Website](https://img.shields.io/badge/MohammadAli-Front--End%20Developer-red?style=for-the-badge&logo=appveyor)](https://alidevep01.github.io/myPortfolio-/)
 
 ## Connect with me:
-[![website](./images/website.png)](https://alidevep01.github.io/myPortfolio-/)
-[![linkedin](./images/linkedin.png)](https://www.linkedin.com/in/mohammad-ali-front-end-developer/)
-[![instagram](./images/instagram.png)](https://www.instagram.com/mohdali144/)
-[![facebook](./images/facebook.png)](https://www.facebook.com/SILENTRULER/)
+[![website](./mywebsite.png)](https://alidevep01.github.io/myPortfolio-/)
+[![linkedin](./icons8-linkedin-circled-48.png)](https://www.linkedin.com/in/mohammad-ali-front-end-developer/)
+[![instagram](./icons8-instagram-40.png)](https://www.instagram.com/mohdali144/)
+[![facebook](./icons8-facebook-48.png)](https://www.facebook.com/SILENTRULER/)
 
 
 ## Languages and Tools:
